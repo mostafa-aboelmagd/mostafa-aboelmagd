@@ -87,7 +87,7 @@ Cairo University, Bachelor Of Science in Systems & Biomedical Engineering (Expec
 <p>
   <img height="50" src="./icons/git.svg">&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="50" src="./icons/vscode.svg">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="50" src="./icons/intellij.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="50" src="./icons/notion.svg">&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 </div>
