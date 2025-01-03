@@ -1,8 +1,8 @@
 <div align="center">
 
-# Mostafa Ayman Aboelmagd
+# Hi 👋, I'm Mostafa Ayman Aboelmagd
 
-Third Year Systems & Biomedical Engineering Student At Cairo University<br />
+Senior-1 Systems & Biomedical Engineering Student At Cairo University<br />
 Passionate About Software Development<br />
 Feel Free To Check Out My Resume
 
