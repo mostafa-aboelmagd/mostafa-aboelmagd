@@ -8,19 +8,9 @@ Feel Free To Check Out My Resume
 
 ## Important Links
 
-| Resume | LinkedIn | Gmail |
+| Resume | LinkedIn | Email |
 | :----: | :------: | :---: |
 | [<img height="30" src="./icons/cv.svg">](https://drive.google.com/file/d/16_eZhDt3c2P2snI2rfKrQOzOVc0qUJxO/view?usp=sharing) | [<img height="30" src="./icons/linkedin.svg">](https://www.linkedin.com/in/mostafa--aboelmagd/) | [<img height="30" src="./icons/gmail.svg">](mailto:mostafaaboelmagd01@gmail.com) |
-
-</div>
-
----
-
-<div align="center">
-
-## Education
-
-Cairo University, Bachelor Of Science in Systems & Biomedical Engineering (Expected Graduation: 2026) With GPA: 3.5
 
 </div>
 
