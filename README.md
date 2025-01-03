@@ -10,7 +10,7 @@ Feel Free To Check Out My Resume
 
 | Resume | LinkedIn | Email |
 | :----: | :------: | :---: |
-| [<img height="30" src="./icons/cv.svg">](https://drive.google.com/file/d/16_eZhDt3c2P2snI2rfKrQOzOVc0qUJxO/view?usp=sharing) | [<img height="30" src="./icons/linkedin.svg">](https://www.linkedin.com/in/mostafa--aboelmagd/) | [<img height="30" src="./icons/gmail.svg">](mailto:mostafaaboelmagd01@gmail.com) |
+| [<img height="30" src="./icons/cv.svg">](https://drive.google.com/file/d/1wooGB5NmvzTAOJkEqrLnW77FiahNgIPg/view?usp=sharing) | [<img height="30" src="./icons/linkedin.svg">](https://www.linkedin.com/in/mostafa--aboelmagd/) | [<img height="30" src="./icons/gmail.svg">](mailto:mostafaaboelmagd01@gmail.com) |
 
 </div>
 
