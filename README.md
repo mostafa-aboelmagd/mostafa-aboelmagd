@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Mostafa Ayman Aboelmagd
+# Hi 👋, I'm Mostafa Ayman
 
 Senior-1 Systems & Biomedical Engineering Student At Cairo University<br />
 Passionate About Software Development<br />
