@@ -47,7 +47,7 @@ Feel Free To Check Out My Resume
 ## Technologies
 
 <p>
-  <img height="40" src="./icons/reactjs.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="50" src="./icons/reactjs.svg">&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="50" src="./icons/tailwind.svg">&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="50" src="./icons/bootstrap.svg">&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
