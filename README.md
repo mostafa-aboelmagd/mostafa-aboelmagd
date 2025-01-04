@@ -48,8 +48,8 @@ Feel Free To Check Out My Resume
 
 <p>
   <img height="50" src="./icons/reactjs.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="50" src="./icons/nextjs.svg">&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="50" src="./icons/tailwind.svg">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="50" src="./icons/bootstrap.svg">&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 </div>
