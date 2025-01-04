@@ -34,7 +34,7 @@ Feel Free To Check Out My Resume
 
 <p>
   <img height="50" src="./icons/python.svg">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="50" src="./icons/flask.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="50" src="./icons/flask.svg#gh-dark-mode-only">&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="50" src="./icons/qt.svg">&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -48,7 +48,8 @@ Feel Free To Check Out My Resume
 
 <p>
   <img height="50" src="./icons/reactjs.svg">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="50" src="./icons/nextjs.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="50" src="./icons/nextjs.svg#gh-light-mode-only">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="50" src="./icons/nextjsdark.svg#gh-dark-mode-only">&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="50" src="./icons/tailwind.svg">&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
