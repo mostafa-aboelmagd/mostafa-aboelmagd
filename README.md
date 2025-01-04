@@ -34,7 +34,7 @@ Feel Free To Check Out My Resume
 
 <p>
   <img height="50" src="./icons/python.svg">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="50" src="./icons/flask.svg#gh-dark-mode-only">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="50" src="./icons/flask.svg#gh-light-mode-only">&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="50" src="./icons/qt.svg">&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
