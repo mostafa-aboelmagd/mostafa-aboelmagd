@@ -15,7 +15,7 @@ Feel Free To Check Out My Resume
 ## Contact Information
 
 | Resume | LinkedIn | Email |
-| :----: | :------: | :---: |
+| :---: | :---: | :---: |
 | [<img height="30" src="./icons/cv.svg">](https://drive.google.com/file/d/1QdDGrEgZlfyrwdLqVvNbG5kKpRxeLQ0e/view?usp=sharing) | [<img height="30" src="./icons/linkedin.svg">](https://www.linkedin.com/in/mostafa--aboelmagd/) | [<img height="30" src="./icons/gmail.svg">](mailto:mostafaaboelmagd01@gmail.com) |
 
 </div>
