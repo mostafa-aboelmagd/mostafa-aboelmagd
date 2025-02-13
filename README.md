@@ -33,9 +33,9 @@ Feel Free To Check Out My Resume
 </p>
 
 <p>
+  <img height="50" src="./icons/C.svg">&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="50" src="./icons/cpp.svg">&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="50" src="./icons/java.svg">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="50" src="./icons/typescript.svg">&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <p>
