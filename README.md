@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Mostafa Ayman
 
-Senior-1 Systems & Biomedical Engineering Student At Cairo University<br />
+Senior Systems & Biomedical Engineering Student At Cairo University<br />
 Passionate About Software Development<br />
 Feel Free To Check Out My Resume
 
