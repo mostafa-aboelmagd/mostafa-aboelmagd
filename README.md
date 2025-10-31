@@ -34,8 +34,8 @@ Feel Free To Check Out My Resume
 
 <p>
   <img height="50" src="./icons/C.svg">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="50" src="./icons/cpp.svg">&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="50" src="./icons/java.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="50" src="./icons/Kotlin.svg">&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <p>
@@ -54,6 +54,7 @@ Feel Free To Check Out My Resume
 
 <p>
   <img height="50" src="./icons/reactjs.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="50" src="./icons/nestjs.svg">&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="50" src="./icons/nextjs.svg#gh-light-mode-only">&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="50" src="./icons/nextjsdark.png#gh-dark-mode-only">&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="50" src="./icons/tailwind.svg">&nbsp;&nbsp;&nbsp;&nbsp;
@@ -69,7 +70,7 @@ Feel Free To Check Out My Resume
 ## Databases
 
 <p>
-  <img height="50" src="./icons/mysql.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="50" src="./icons/MongoDB.svg">&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="50" src="./icons/postgresql.svg">&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="50" src="./icons/sqlite.svg">&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
