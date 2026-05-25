@@ -77,16 +77,3 @@ Feel Free To Check Out My Resume
 
 </div>
 
----
-
-<div align="center">
-
-## Tools
-
-<p>
-  <img height="50" src="./icons/git.svg">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="50" src="./icons/vscode.svg">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="50" src="./icons/notion.svg">&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
-</div>
