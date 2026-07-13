@@ -65,6 +65,7 @@ Feel Free To Check Out My Resume
 
 </div>
 
+---
 
 <div align="center">
 
