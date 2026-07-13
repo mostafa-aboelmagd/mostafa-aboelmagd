@@ -94,9 +94,9 @@ Feel Free To Check Out My Resume
 
 <p>
   <img height="50" src="./icons/MongoDB.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="40" src="./icons/sqllite_dark.svg#gh-dark-mode-only">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="40" src="./icons/sqllite_light.svg#gh-light-mode-only">&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="50" src="./icons/postgresql.svg">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="35" src="./icons/sqllite_dark.svg#gh-dark-mode-only">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="35" src="./icons/sqllite_light.svg#gh-light-mode-only">&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 </div>
