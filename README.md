@@ -26,16 +26,10 @@ Feel Free To Check Out My Resume
 
 ## Programming languages
 
-<p>
-  <img height="50" width="50" src="./icons/C.svg">;
-  <img height="50" width="50" src="./icons/python.svg">
-  <img height="50" width="50" src="./icons/javascript.svg">
-</p>
-
-<p>
-  <img height="50" width="50" src="./icons/java.svg">
-  <img height="50" width="50" src="./icons/Kotlin.svg">
-</p>
+| | | |
+|:-:|:-:|:-:|
+| <img src="./icons/C.svg" width="60"> | <img src="./icons/python.svg" width="60"> | <img src="./icons/javascript.svg" width="60"> |
+| <img src="./icons/java.svg" width="60"> | <img src="./icons/Kotlin.svg" width="60"> | |
 
 </div>
 
