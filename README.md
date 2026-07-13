@@ -72,8 +72,8 @@ Feel Free To Check Out My Resume
 
 <p>
   <img height="50" src="./icons/nodejs.svg">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="50" width="50" src="./icons/express_dark.svg#gh-dark-mode-only">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="50" src="./icons/express_light.svg#gh-light-mode-only">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="35" src="./icons/express_dark.svg#gh-dark-mode-only">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="35" src="./icons/express_light.svg#gh-light-mode-only">&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="50" src="./icons/nestjs.svg">&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
