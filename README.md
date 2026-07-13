@@ -27,14 +27,14 @@ Feel Free To Check Out My Resume
 ## Programming languages
 
 <p>
-  <img height="50" src="./icons/C.svg">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="50" src="./icons/python.svg">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="50" src="./icons/javascript.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="50" width="50" src="./icons/C.svg">;
+  <img height="50" width="50" src="./icons/python.svg">
+  <img height="50" width="50" src="./icons/javascript.svg">
 </p>
 
 <p>
-  <img height="50" src="./icons/java.svg">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="50" src="./icons/Kotlin.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="50" width="50" src="./icons/java.svg">
+  <img height="50" width="50" src="./icons/Kotlin.svg">
 </p>
 
 </div>
@@ -46,21 +46,21 @@ Feel Free To Check Out My Resume
 ## Frontend Development
 
 <p>
-  <img height="50" src="./icons/html5.svg">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="50" src="./icons/css3.svg">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="50" src="./icons/tailwind.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="50" width="50" src="./icons/html5.svg">
+  <img height="50" width="50" src="./icons/css3.svg">
+  <img height="50" width="50" src="./icons/tailwind.svg">
 </p>
 
 <p>
-  <img height="50" src="./icons/reactjs.svg">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="50" src="./icons/nextjsdark.png#gh-dark-mode-only">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="50" src="./icons/nextjs.svg#gh-light-mode-only">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="50" width="50" src="./icons/reactjs.svg">
+  <img height="50" width="50" src="./icons/nextjsdark.png#gh-dark-mode-only">
+  <img height="50" width="50" src="./icons/nextjs.svg#gh-light-mode-only">
 </p>
 
 <p>
-  <img height="50" src="./icons/threejs_dark.png#gh-dark-mode-only">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="50" src="./icons/threejs_light.svg#gh-light-mode-only">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="50" src="./icons/cornerstone3d.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="50" width="50" src="./icons/threejs_dark.png#gh-dark-mode-only">
+  <img height="50" width="50" src="./icons/threejs_light.svg#gh-light-mode-only">
+  <img height="50" width="50" src="./icons/cornerstone3d.svg">
 </p>
 
 </div>
@@ -71,15 +71,15 @@ Feel Free To Check Out My Resume
 ## Backend Development
 
 <p>
-  <img height="50" src="./icons/nodejs.svg">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="30" src="./icons/express_dark.svg#gh-dark-mode-only">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="50" src="./icons/express_light.svg#gh-light-mode-only">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="50" src="./icons/nestjs.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="50" width="50" src="./icons/nodejs.svg">
+  <img height="50" width="50" src="./icons/express_dark.svg#gh-dark-mode-only">
+  <img height="50" width="50" src="./icons/express_light.svg#gh-light-mode-only">
+  <img height="50" width="50" src="./icons/nestjs.svg">
 </p>
 
 <p>
-  <img height="50" src="./icons/flask_dark.svg#gh-dark-mode-only">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="50" src="./icons/flask_light.svg#gh-light-mode-only">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="50" width="50" src="./icons/flask_dark.svg#gh-dark-mode-only">
+  <img height="50" width="50" src="./icons/flask_light.svg#gh-light-mode-only">
 </p>
 
 </div>
